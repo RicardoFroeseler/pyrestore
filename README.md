@@ -15,7 +15,7 @@ Este projeto automatiza o processo de renomear um banco de dados PostgreSQL, cri
 ### 1. Clonar o repositório
 Clone este repositório no seu ambiente local:
 ```bash
-git clone https://github.com/seu-repositorio.git
+git clone https://github.com/RicardoFroeseler/pyrestore.git
 cd seu-repositorio
 ```
 
